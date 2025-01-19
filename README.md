@@ -21,3 +21,19 @@ This repository contains a visually appealing and interactive **Coffee Shop Sale
 
 
 
+## 🖼 **Preview**
+![Coffee Shop Sales Dashboard](./Coffee-Shop-sales-End-to-End-analysis-by-Ms-Exel-/Screenshot%202025-01-18%20221712.png)  
+*(Replace `path_to_image` with the relative path to the uploaded screenshot in your repository.)*
+
+---
+
+## 🛠 **Technical Details**
+- **Tool Used**: Microsoft Excel
+- **Data Visualizations**:
+  - Bar Charts
+  - Pie Charts
+  - Line Graphs
+- **Interactivity**: Slicers for dynamic filtering by month and day names.
+
+---
+
