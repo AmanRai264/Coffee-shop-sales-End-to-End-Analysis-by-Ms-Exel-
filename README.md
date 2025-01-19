@@ -48,5 +48,21 @@ This repository contains a visually appealing and interactive **Coffee Shop Sale
 
 ---
 
+## 💡 **Key Insights**
+- Peak coffee demand occurs during **morning hours (7 AM to 10 AM)**.
+- **May** and **June** are the most profitable months in terms of revenue.
+- **Coffee** and **Bakery items** are the top-performing products.
+- **Hell's Kitchen** is the best-performing store location.
+
+---
+
+## 📧 **Contact**
+If you have any questions or feedback, feel free to reach out:  
+**Name**: Aman Rai  
+**Email**: your-email@example.com  
+
+---
+
+Feel free to replace placeholders like `AmanRai264`  with the appropriate details before uploading. Let me know if you'd like further tweaks!
 
 
