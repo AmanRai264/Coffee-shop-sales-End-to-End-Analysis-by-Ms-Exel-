@@ -59,7 +59,7 @@ This repository contains a visually appealing and interactive **Coffee Shop Sale
 ## 📧 **Contact**
 If you have any questions or feedback, feel free to reach out:  
 **Name**: Aman Rai  
-**Email**: your-email@example.com  
+**Email**: amanrai1445@gmail.com  
 
 ---
 
