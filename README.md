@@ -37,3 +37,16 @@ This repository contains a visually appealing and interactive **Coffee Shop Sale
 
 ---
 
+
+## 🚀 **How to Use**
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/AmanRai264/coffee-shop-sales-dashboard.git
+   ```
+2. Open the `Screenshot.xlsx` file in Microsoft Excel.
+3. Use the slicers (filters) to explore different months, days, and data insights interactively.
+
+---
+
+
+
